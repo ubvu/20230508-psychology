@@ -55,13 +55,7 @@ Vermeldingen in geschreven media en beleidsdocumenten
 :::
 ::::
 
-## Nota bene
-
-  - Analyse alleen gedaan voor data die we kunnen terugvinden in OpenAlex/Altmetric.
-    Alleen items met DOI, voornamelijk *peer-reviewed* artikelen
-  - Subtotalen (per uni/concept) tellen niet op tot totaal door overlap.
-
-## OpenAlex Concepts
+## OpenAlex labels: *Concepts*
 
 - Gebaseerd op *Fields of Study* uit Microsoft Academic Graph.
 - Geautomatiseerde semantische vergelijking tussen tekst uit artikel en relevante Wikipedia lemma's [[@shen2018](https://arxiv.org/pdf/1805.12216.pdf){target="_blank" rel="noreferrer"}].
@@ -76,6 +70,15 @@ Vermeldingen in geschreven media en beleidsdocumenten
 - Per concept-jaar groep wordt het gemiddelde aantal citaties berekend
 - Normalisatie: gemiddelde = 1
 - interpretatie: bijv CWC=1.8 -> 80% meer citaties dan verwacht.
+
+## Nota bene
+
+- Analyse alleen gedaan voor data die we kunnen terugvinden in OpenAlex/Altmetric.
+  
+  Alleen items met DOI, voornamelijk *peer-reviewed* artikelen
+
+- Subtotalen (per uni/concept) tellen niet op tot totaal door overlap.
+
 
 ## Dashboard
 
