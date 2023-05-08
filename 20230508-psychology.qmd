@@ -118,9 +118,7 @@ Benchmark
 
 ::::
 
-## Dashboard
-
-<iframe title="2023_psychologie_dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNWM0ZDMyZTYtZDRhNi00ODdmLWExOTctYTMzODU3MjE3ZmJmIiwidCI6IjQ2MmE5YzljLTJkYTYtNGJmYi1iMzE4LTBmODMwNDNmZTQ5YiIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+## Dashboard {background-image="img/dashboard.png" background-size="70%" background-repeat="no-repeat" background-position="center"}
 
 ## Referenties
 ---
